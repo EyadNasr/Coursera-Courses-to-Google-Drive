@@ -3,4 +3,4 @@ This is a Google Colab notebook to Download enrolled courses from Coursera to Go
 <br><br><b>Usage:</b>
 <br>
 <a href="https://colab.research.google.com/github/EyadNasr/Coursera-Courses-to-Google-Drive/blob/master/Coursera_Courses_to_Google_Drive.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-1. Click on the "Open in Colab" button and press ctrl+f9
+1. There are 3 Cells run each cell separately
